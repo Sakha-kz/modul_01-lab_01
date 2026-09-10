@@ -1,0 +1,9 @@
+D:\Web_service_development_RK1\modul_01\lab_01\src\CoursesApi\publish\CoursesApi.exe
+D:\Web_service_development_RK1\modul_01\lab_01\src\CoursesApi\publish\CoursesApi.dll
+D:\Web_service_development_RK1\modul_01\lab_01\src\CoursesApi\publish\CoursesApi.deps.json
+D:\Web_service_development_RK1\modul_01\lab_01\src\CoursesApi\publish\CoursesApi.runtimeconfig.json
+D:\Web_service_development_RK1\modul_01\lab_01\src\CoursesApi\publish\CoursesApi.pdb
+D:\Web_service_development_RK1\modul_01\lab_01\src\CoursesApi\publish\Microsoft.OpenApi.dll
+D:\Web_service_development_RK1\modul_01\lab_01\src\CoursesApi\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\Web_service_development_RK1\modul_01\lab_01\src\CoursesApi\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Web_service_development_RK1\modul_01\lab_01\src\CoursesApi\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
